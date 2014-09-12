@@ -1,0 +1,12 @@
+9/11  kshama    21.30  22.00       1             16       30          studied the images and the dr.racket documentation
+                                                                      
+9/11  kshama    22.00    22.20     1             16       20          worked on the 16th example. tried verious example
+
+============committing to git: 9/11  22.20- got some problem in submitting===================
+
+9/11  kshama    22.30    22.45     1             17       15          worked on the 17th example. 
+
+============committing to git: 9/11 22.45 ===================
+
+
+
